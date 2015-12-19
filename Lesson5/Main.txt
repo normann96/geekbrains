@@ -1,3 +1,4 @@
-print("Hello")
-print("How are you?)
-ptiny("Fine, thanks")
+print("Hello");
+print("How are you?);
+print("Fine, thanks");
+print("What are you doing now?");
