@@ -7,7 +7,7 @@ int main()
 {
 	setlocale(0, "");
 
-	cout << "Hello world";
+	cout << "Hello everybody";
 
 	return 0;
 }
